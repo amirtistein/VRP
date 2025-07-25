@@ -34,7 +34,6 @@ The Genetic Algorithm is implemented to:
 - **Python**
 - **Matplotlib / Folium** (for route display)
 - **Pandas, NumPy**
-- **Genetic Algorithm from scratch** (or adapted from GitHub)
 - **GIS tools** (for real-world data input, optional)
 
 
